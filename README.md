@@ -20,17 +20,6 @@ Groundwater is a crucial freshwater resource, particularly in areas like Califor
 - Implements data preprocessing techniques such as wavelet transformations and imputation for noise reduction and handling missing values.
 - Compares performance across multiple models, including LSTM, CNN, Random Forest, and Gradient Boosting.
 
-## Repository Structure
-```plaintext
-Groundwater-Level-Prediction/
-├── data/                  # Datasets used in the project
-├── src/                   # Source code for data preprocessing and modeling
-├── results/               # Visualizations and result files
-├── README.md              # Project overview
-├── LICENSE                # License for the project
-└── dissertation.pdf       # Final dissertation document
-```
-
 ## How to Use
 ### Prerequisites
 Ensure you have Python installed along with the required libraries. Use the provided `requirements.txt` file to set up the environment.
